@@ -1,5 +1,5 @@
 {
-  "name": "dotenvjs",
+  "name": "jsdotenv",
   "version": "0.0.1",
   "description": "Gone are the days of flat .env files. This allows to you dynamically build your env.",
   "main": "index.js",
